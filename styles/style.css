@@ -70,7 +70,7 @@ ol {
   height: 298px;
   width: 399px;
   overflow-y: auto;
-  overflow-x: hidden;
+  scrollbar-width: none;
   position: relative;
   margin-left: 3px;
 }
@@ -167,7 +167,6 @@ ol {
   font-weight: 700;
   line-height: 70.5px;
   width: 260px;
-  height: 210px;
   margin-bottom: 25px;
   margin-left: 3px;
   padding-bottom: 3px;
