@@ -68,9 +68,8 @@ ol {
 
 .content__list {
   height: 298px;
-  width: 399px;
+  width: 100%;
   overflow-y: auto;
-  scrollbar-width: none;
   position: relative;
   margin-left: 3px;
 }
@@ -89,7 +88,7 @@ ol {
 }
 
 .content__details {
-  width: 399px;
+  width: 100%;
 }
 
 .content__video-card {
